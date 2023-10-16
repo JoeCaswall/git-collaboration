@@ -5,3 +5,5 @@ pink lady
 jazz
 crab
 another apple
+mac
+iphone
