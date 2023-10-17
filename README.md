@@ -4,7 +4,7 @@
 
 **GOAL**: In this project, you and your partner will be creating a list of apples in a text document, all version-controlled with Git! While this project has an apples-listing theme, the apples (and the project) is not the point: The real goal is to give us an introduction to how we’ll be collaborating via Git in the coming lessons.
 
-Collaborators: Joe Caswall &
+Collaborators: Joe Caswall & Lyndsey Harrington
 
 ## Part 1: First Edits and `git status`
 

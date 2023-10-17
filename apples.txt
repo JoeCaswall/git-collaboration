@@ -7,3 +7,6 @@ crab
 another apple
 mac
 iphone
+fuji
+honeycrisp
+gala
